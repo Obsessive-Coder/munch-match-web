@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/munch-match-web-dev/static/js/app.19cb50f2.chunk.js",
-    "app.js.map": "/munch-match-web-dev/static/js/app.19cb50f2.chunk.js.map",
+    "app.js": "/munch-match-web-dev/static/js/app.405459d9.chunk.js",
+    "app.js.map": "/munch-match-web-dev/static/js/app.405459d9.chunk.js.map",
     "runtime~app.js": "/munch-match-web-dev/static/js/runtime~app.6c70efcd.js",
     "runtime~app.js.map": "/munch-match-web-dev/static/js/runtime~app.6c70efcd.js.map",
     "static/js/2.8917fabf.chunk.js": "/munch-match-web-dev/static/js/2.8917fabf.chunk.js",
@@ -29,6 +29,6 @@
   "entrypoints": [
     "static/js/runtime~app.6c70efcd.js",
     "static/js/2.8917fabf.chunk.js",
-    "static/js/app.19cb50f2.chunk.js"
+    "static/js/app.405459d9.chunk.js"
   ]
 }
