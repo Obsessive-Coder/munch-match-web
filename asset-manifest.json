@@ -1,0 +1,34 @@
+{
+  "files": {
+    "app.js": "/munch-match-web/static/js/app.2b9edadc.chunk.js",
+    "app.js.map": "/munch-match-web/static/js/app.2b9edadc.chunk.js.map",
+    "runtime~app.js": "/munch-match-web/static/js/runtime~app.2e48f10d.js",
+    "runtime~app.js.map": "/munch-match-web/static/js/runtime~app.2e48f10d.js.map",
+    "static/js/2.3cd2ad3e.chunk.js": "/munch-match-web/static/js/2.3cd2ad3e.chunk.js",
+    "static/js/2.3cd2ad3e.chunk.js.map": "/munch-match-web/static/js/2.3cd2ad3e.chunk.js.map",
+    "fonts/AntDesign.ttf": "/munch-match-web/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/munch-match-web/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/munch-match-web/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/munch-match-web/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/munch-match-web/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/munch-match-web/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/munch-match-web/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/munch-match-web/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/munch-match-web/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/munch-match-web/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/munch-match-web/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/munch-match-web/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/munch-match-web/favicon-16.png",
+    "favicon-32.png": "/munch-match-web/favicon-32.png",
+    "favicon.ico": "/munch-match-web/favicon.ico",
+    "index.html": "/munch-match-web/index.html",
+    "manifest.json": "/munch-match-web/manifest.json",
+    "serve.json": "/munch-match-web/serve.json",
+    "static/js/2.3cd2ad3e.chunk.js.LICENSE.txt": "/munch-match-web/static/js/2.3cd2ad3e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.2e48f10d.js",
+    "static/js/2.3cd2ad3e.chunk.js",
+    "static/js/app.2b9edadc.chunk.js"
+  ]
+}
